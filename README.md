@@ -1,4 +1,4 @@
-<img width="4130" height="142" alt="image" src="https://github.com/user-attachments/assets/6fa99679-d6d5-40e0-b068-4866546be506" /><h2>Description</h2>
+<h2>Description</h2>
 Instacart already has very good sales, but they want to uncover more information about their sales patterns. My task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 <h2>Goal</h2>
 To uncover customer shopping behavior and segment purchasing patterns in order to support more effective marketing and product placement strategies for Instacart.
