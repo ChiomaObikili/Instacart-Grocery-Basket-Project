@@ -2,13 +2,7 @@
 Instacart already has very good sales, but they want to uncover more information about their sales patterns. My task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 <h2>Goal</h2>
 To uncover customer shopping behavior and segment purchasing patterns in order to support more effective marketing and product placement strategies for Instacart.
-<h2>Context & Duration</h2>
-This was a 2-week Python-focused project completed as part of my data analytics certification. The dataset was sourced from Kaggle, and additional customer details were fabricated for analysis.
-<h2>My Role</h2>
-Data Analyst – I performed exploratory data analysis, segmentation, and visualization using Python (Pandas, NumPy, Matplotlib, Seaborn). I also derived strategic recommendations for improving personalization and operational efficiency.
 
-<h2>Data Source</h2>
-Instacart Grocery Orders (Kaggle) Customer data & product prices were fabricated for project.
 <h2>Tools Used</h2>
 Python (Pandas, NumPy, OS), Matplotlib, Seaborn.
 
@@ -66,6 +60,8 @@ We didn’t have enough data on expensive products to know for sure if adding mo
 Customers care about more than just price—things like product choice, when they shop, and where they live all matter.
 In summary, this project gave me a clear information to make smarter decisions and better serve customers.
 
+<h2>Data Source</h2>
+Instacart Grocery Orders (Kaggle) Customer data & product prices were fabricated for project.
 
 
 
