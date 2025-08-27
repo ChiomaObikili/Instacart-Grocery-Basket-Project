@@ -27,7 +27,8 @@ Identifying trends across thousands of products so I aggregated purchases at the
 To understand customer ordering patterns, I analyzed order volume by day of the week and time of day. The data revealed that Sundays and Mondays consistently had the highest number of orders, with Saturdays also performing well. In contrast, Tuesdays and Wednesdays saw the lowest activity, suggesting slower midweek engagement.When looking at order timing, 10 a.m. and 11 a.m. emerged as the peak hours, indicating that most customers place orders in the late morning.
 
   
-<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b98dfef3-fffd-46cc-9ab2-f7f990d3f65c" />   <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/ccb94aff-2d87-4f17-a103-b1caf1f61dbc" />
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/ccb94aff-2d87-4f17-a103-b1caf1f61dbc" /> <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b572466f-47e6-47c0-9f3b-a56a098aa35f" />
+
 
 
 A histogram of order activity showed that most orders are placed during daytime hours, especially between 9 a.m. and 5 p.m., with very little activity overnight. The quietest period was between midnight and 5 a.m., making 3 a.m. to 4 a.m. the best time for website maintenance with minimal impact on users.Based on peak activity, the most effective window for advertising and promotions is between 10 a.m. and 4 p.m., when customer engagement is at its highest.Spending analysis across regions revealed that most customers are low spenders, regardless of location. However, the South stood out with the highest number of both high and low spenders, while the Northeast had the fewest customers overall in both categories.
