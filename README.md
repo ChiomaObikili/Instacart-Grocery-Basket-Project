@@ -21,7 +21,8 @@ Identifying trends across thousands of products so I aggregated purchases at the
 To understand customer ordering patterns, I analyzed order volume by day of the week and time of day. The data revealed that Sundays and Mondays consistently had the highest number of orders, with Saturdays also performing well. In contrast, Tuesdays and Wednesdays saw the lowest activity, suggesting slower midweek engagement.When looking at order timing, 10 a.m. and 11 a.m. emerged as the peak hours, indicating that most customers place orders in the late morning.
 
   
-<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/ccb94aff-2d87-4f17-a103-b1caf1f61dbc" /> <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b572466f-47e6-47c0-9f3b-a56a098aa35f" />
+<img width="450" height="400" alt="polished_order_hours" src="https://github.com/user-attachments/assets/a999f775-7b4f-4207-909a-26680c9eed8f" /> <img width="450" height="400" alt="polished_busiest_days" src="https://github.com/user-attachments/assets/61b9e8cc-73b1-43c6-be75-800714e5e1ae" />
+
 
 
 
@@ -34,7 +35,8 @@ A histogram of order activity showed that most orders are placed during daytime 
 To better understand customer purchasing behavior, I analyzed transactions by income level and age group. The results showed that low-income customers made the highest number of purchases, highlighting the importance of affordability in driving sales.Among age groups, seniors were the most active purchasers, suggesting that older customers may have stronger brand loyalty, more consistent buying habits, or specific content preferences.These patterns point to key drivers behind customer behavior—price sensitivity and age-related preferences—which can inform both marketing strategies and product offerings.
 
 
-<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/0003e989-ff01-4de0-b775-693a64800b7c" /> <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/abe8664f-af73-4e42-b214-a19d7565a200" />
+<img width="450" height="400" alt="polished_customer_age_groups" src="https://github.com/user-attachments/assets/09c25f27-685f-403e-a37c-55c28bfb96d7" />
+ <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/abe8664f-af73-4e42-b214-a19d7565a200" />
 
 
 I examined purchasing patterns by marital and parental status, and the data revealed that parents consistently made more purchases than single individuals across all income levels. Notably, low-income parents led in total purchases. This suggests that being a parent has a stronger influence on buying behavior than income level, likely due to the increased needs of a household.Next, I explored product category preferences. The produce department had the highest number of purchases, followed by dairy and eggs—indicating a focus on essential, perishable items. In contrast, the bulk and 'other' categories saw the fewest purchases, reflecting lower demand in those areas.
