@@ -36,13 +36,14 @@ To better understand customer purchasing behavior, I analyzed transactions by in
 
 
 <img width="450" height="400" alt="polished_customer_age_groups" src="https://github.com/user-attachments/assets/09c25f27-685f-403e-a37c-55c28bfb96d7" />
- <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/abe8664f-af73-4e42-b214-a19d7565a200" />
+<img width="450" height="400" alt="polished_customer_income" src="https://github.com/user-attachments/assets/2d4394d1-80d9-4174-8802-ee17c517d4cf" />
 
 
 I examined purchasing patterns by marital and parental status, and the data revealed that parents consistently made more purchases than single individuals across all income levels. Notably, low-income parents led in total purchases. This suggests that being a parent has a stronger influence on buying behavior than income level, likely due to the increased needs of a household.Next, I explored product category preferences. The produce department had the highest number of purchases, followed by dairy and eggs—indicating a focus on essential, perishable items. In contrast, the bulk and 'other' categories saw the fewest purchases, reflecting lower demand in those areas.
 
 
-<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/10afdd26-23f2-4c55-bfac-e4db3ae336da" /> <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/23ed684c-4810-4daa-ab7a-38c7bfbdb281" />
+<img width="450" height="400" alt="polished_income_parent_status" src="https://github.com/user-attachments/assets/46e0bf88-ef9f-4482-9aff-11b725b971c4" />
+ <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/23ed684c-4810-4daa-ab7a-38c7bfbdb281" />
 
 
 <h2>Insights</h2>
