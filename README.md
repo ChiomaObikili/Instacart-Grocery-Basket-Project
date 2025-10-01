@@ -47,7 +47,7 @@ I examined purchasing patterns by marital and parental status, and the data reve
 
 
 <img width="450" height="400" alt="polished_income_parent_status" src="https://github.com/user-attachments/assets/46e0bf88-ef9f-4482-9aff-11b725b971c4" />
- <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/23ed684c-4810-4daa-ab7a-38c7bfbdb281" />
+<img width="450" height="400" alt="polished_department_sales" src="https://github.com/user-attachments/assets/aad42086-ceb0-4164-b3b0-635f748230db" />
 
 
 
